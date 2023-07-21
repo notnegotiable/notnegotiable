@@ -1,4 +1,10 @@
-### Hi there 👋
+QUANTUM CRYPTOGRAPHY\
+GAME DEV AND ANIMATION\
+EMBEDDED SYSTEMS\
+GRAPHIC DESIGN\
+\
+HAVING FUN AND SOLVING PROBLEMS. . . 
+
 
 <!--
 **notnegotiable/notnegotiable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
